@@ -1,4 +1,9 @@
-# To Install and Run the Project
+# To Do:
+* Modify the price of NFT
+* Login with ii
+* The homepage lists the series of NFT
+
+## To Install and Run the Project
 
 1. start local dfx
 

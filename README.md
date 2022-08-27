@@ -45,13 +45,13 @@ dfx canister call opend mint '(vec {137; 80; 78; 71; 13; 10; 26; 10; 0; 0; 0; 13
 dfx canister call opend listItem '(principal "<REPLACE WITH NFT CANISTER ID>", 2)'
 ```
 
-3. Get OpenD canister ID:
+3. Get Seesset canister ID:
 
 ```
-dfx canister id opend
+dfx canister id seesset
 ```
 
-4. Transfer NFT to OpenD:
+4. Transfer NFT to Seesset:
 
 ```
 dfx canister call <REPLACE WITH NFT CANISTER ID> transferOwnership '(principal "<REPLACE WITH OPEND CANISTER ID>", true)'

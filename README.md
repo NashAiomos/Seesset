@@ -4,6 +4,7 @@
 * The homepage lists the series of NFT
 * Integrated Wallet
 * Users top up cycles for their NFT canister
+* Use the EXT standard
 
 ## To Install and Run the Project
 

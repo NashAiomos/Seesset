@@ -33,7 +33,7 @@ Principal id must be your own.
 
 http://localhost:8080/
 
-# Creating NFT for Testing
+## Creating NFT for Testing
 
 1. Mint an NFT on the command line to get NFT into mapOfNFTs:
 
@@ -59,7 +59,7 @@ dfx canister id seesset
 dfx canister call <REPLACE WITH NFT CANISTER ID> transferOwnership '(principal "<REPLACE WITH SEESSET CANISTER ID>", true)'
 ```
 
-# Conneting to the Token Canister
+## Conneting to the Token Canister
 
 1. Copy over the token declarations folder
 

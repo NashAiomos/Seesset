@@ -8,6 +8,13 @@
 
 ## To Install and Run the Project
 
+You can download and install the latest version of the DFINITY Canister smart contract SDK, called dfx, by running the command below.
+DFX is natively supported on Linux or macOS 12.* Monterey or later. There is no native support for dfx on Windows. However, by installing the Windows Subsystem for Linux (WSL), you can run dfx also on a Windows system as described below.
+
+```
+sh -ci "$(curl -fsSL https://internetcomputer.org/install.sh)"
+```
+
 1. start local dfx
 
 ```

@@ -28,7 +28,13 @@ dfx deploy --argument='("ZZX", principal "5ryts-zzxf6-zzxzz-xzzxz-zxzzx-xzzxt-zz
 ```
 "ZZX" is code name, can be change.
 
-Note: Principal id must be your own!
+Note: Principal id must be your own! 
+
+Get your principal
+
+```
+dfx identity get-principal
+```
 
 3. Run NPM server
 

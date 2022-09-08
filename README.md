@@ -1,5 +1,5 @@
 # To Do:
-* Modify the price of NFT
+* Change the price of NFT
 * Login with ii
 * The homepage lists the series of NFT
 * Integrated Wallet
